@@ -1,0 +1,6 @@
+
+* A branch usada no curso de Microsserviços ministrado pela VOffice/Rodrigo Cândido Silva em 2017 no TSE foi a *v3*:
+** https://github.com/rcandidosilva/workshop-microservices/tree/v3
+
+* PORÉM, a branch *master* é mais completa e deve ser estudada também:
+** https://github.com/rcandidosilva/workshop-microservices
